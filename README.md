@@ -1,5 +1,5 @@
 ## DALL-E in Pytorch (wip)
-
+借助文本生成图像
 Implementation / replication of <a href="https://openai.com/blog/dall-e/">DALL-E</a>, OpenAI's Text to Image Transformer, in Pytorch. It will also contain <a href="https://openai.com/blog/clip/">CLIP</a> for ranking the generations.
 
 <a href="https://www.youtube.com/watch?v=j4xgkjWlfL4">Yannic Kilcher's video</a>
